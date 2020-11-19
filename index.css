@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right bottom, #6ac7b7, #397ac9);
+    font-size: 16px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.heder {
+    display: flex;
+    width: 100vw;
+    height: 6.533333rem;
+    text-align: center;
+}
+
+.heder span {
+    flex: 1;
+    margin-top: 6.533333rem;
+    width: 4.8rem;
+    height: 0.933333rem;
+    font-size: 3.12rem;
+    color: #ffffff;
+}
+
+.biaoge {
+    margin-top: 7.857143rem;
+    height: 17.133333rem;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.biaoge p {
+    color: #ffffff;
+}
+
+.biaoge span {
+    margin-bottom: 1.142857rem;
+    width: 80%;
+    height: 7.428571rem;
+    border-radius: 2.571429rem;
+    border: solid 0.071429rem #ffffff;
+}
+
+.biaoge span p {
+    padding-top: 0.214286rem;
+    padding-left: 1.428571rem;
+    font-family: FZLTCXHJW--GB1-0;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.biaoge button {
+    width: 80%;
+    height: 7.428571rem;
+    border-radius: 2.571429rem;
+    border: solid 0.071429rem #ffffff;
+    background-color: #56b3f5;
+    color: #ffffff;
+    font-size: 1.428571rem;
+}
